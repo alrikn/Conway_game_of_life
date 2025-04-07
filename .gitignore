@@ -1,0 +1,4 @@
+gameoflife
+*.a
+*.o
+*.test
